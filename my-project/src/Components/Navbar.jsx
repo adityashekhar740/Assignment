@@ -11,7 +11,7 @@ const Navbar = () => {
             <div className='features'  >Flashcard</div>
             <div className='features'  >Contact</div>
             <div className='features'  >FAQ</div>
-            <button className='py-[13px] px-[40px] text-lg flex items-center  rounded-3xl bg-gradient-to-b from-blue-900 to-blue-500 h-screen w-[128px] h-[48px] text-[white] ' >Login</button>
+            <button className='py-[13px] px-[40px] text-lg flex items-center  rounded-3xl bg-gradient-to-b from-blue-900 to-blue-500  w-[128px] h-[48px] text-[white] ' >Login</button>
 
         </div>
     </div>
